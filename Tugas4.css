@@ -1,0 +1,25 @@
+.container {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center; 
+  }
+  .card {
+    padding: 5px;
+    margin-bottom: 20px; 
+    margin-left: 20px;
+    margin-right: 40px;
+  }
+
+  .apa{
+    margin-top: 6em;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  .container2{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center; 
+    margin-top: 7em;
+    margin-left: 4em;
+    margin-right: 4em ;
+ }
